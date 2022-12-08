@@ -1,7 +1,7 @@
 
 <img src='https://user-images.githubusercontent.com/107703448/206423118-9b0c0459-d818-4355-8515-81dbbf620015.jpg' width="300px" align="right"/> 
 
-# Hello, I'm The Magic Dec 👋
+# Hello, I'm Magic Dev 👋
 
 ### I ❤️ creating software!
 - 💻 I’m a web dev currently working [@nextJs](https://nextjs.org/).
