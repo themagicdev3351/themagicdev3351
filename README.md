@@ -6,7 +6,6 @@
 
 <!-- ### Here is my portfolio website: <a href="https://lucasboscariole.com/" target="_blank"><b>Lucas Boscariole Silva.</b></a> -->
 
-<br/>
 
 ### 🖥️ Technologies and Tools 
 
