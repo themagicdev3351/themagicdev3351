@@ -20,16 +20,16 @@
 ### My weapons of choice:
 
 #### Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,gatsby,bootstrap,materialui,emotion,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,gatsby,bootstrap,materialui" />
 
 #### Back-end
-<img src="https://skillicons.dev/icons?i=php,nodejs,express,nestjs,mysql,mongodb,postgres,supabase,firebase,appwrite" />
+<img src="https://skillicons.dev/icons?i=php,nodejs,express,mongodb" />
 
 #### Full-stack frameworks
-<img src="https://skillicons.dev/icons?i=remix,nextjs,apollo,wordpress" />
+<img src="https://skillicons.dev/icons?i=remix,nextjs,wordpress" />
 
 #### Other tools
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,bash,docker,electron" />
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,bash" />
 
 <br />
 <br />
@@ -45,8 +45,8 @@
 
 </div>
 
-[draf]: https://arpitdalal.netlify.app
+[draf]: https://themagicdev3351.netlify.app
 [website]: https://arpitdalal.dev?utm_source="github"&utm_medium="social-media"
-[twitter]: https://twitter.com/_arpit_dalal_
-[linkedin]: https://www.linkedin.com/in/arpitdalal/
-[github]: https://www.github.com/arpitdalal
+[twitter]: https://twitter.com/TheMagicDev
+[linkedin]: https://www.linkedin.com/in/bhautik-vadadoriya/
+[github]: https://www.github.com/themagicdev3351
