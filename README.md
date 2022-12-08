@@ -2,7 +2,7 @@
 
 #### Hi there 👋
 
-#### I'm Bhautik Patel base on Indea. And I'm a Front-end web developer with reactJS/nextJs Specilists having more than 4 years of expertise
+#### I'm Bhautik Patel based in India. And I'm a Front-end web developer with reactJS/nextJs Specialists having more than 4 years of expertise.
 
 <!-- ### Here is my portfolio website: <a href="https://lucasboscariole.com/" target="_blank"><b>Lucas Boscariole Silva.</b></a> -->
 
