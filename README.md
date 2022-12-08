@@ -46,7 +46,7 @@
 </div>
 
 [draf]: https://themagicdev3351.netlify.app
-[website]: https://arpitdalal.dev?utm_source="github"&utm_medium="social-media"
+[website]: https://themagicdev3351.dev?utm_source="github"&utm_medium="social-media"
 [twitter]: https://twitter.com/TheMagicDev
 [linkedin]: https://www.linkedin.com/in/bhautik-vadadoriya/
 [github]: https://www.github.com/themagicdev3351
