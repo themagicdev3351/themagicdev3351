@@ -16,11 +16,11 @@
 <code><img width="40px" height="30" src="https://user-images.githubusercontent.com/107703448/206361298-f5af91da-e764-4943-a3ee-ce842b29f1a0.svg" title = "HTML5"/></code>&nbsp;
 <code><img width="40px" height="30" src="https://user-images.githubusercontent.com/107703448/206360553-3e6b3603-cec2-45fe-8a4d-0a25b861d596.svg" title = "GIT"/></code>&nbsp; 
 <br/>
+<br/>
 
 <div display="inline-block">
- <p align="left">🤖 Looking for work.</p>
- <p align="left">🐕 Father of 3 dogs and a cat!</p>
- <p align="left">🧳 I love to travel and play FPS games.</p>
+ <p align="left">🤖 Looking for work.</p> 
+ <p align="left">🧳 I love to coding and enjoy.</p>
 </div>
 
 <br/>
