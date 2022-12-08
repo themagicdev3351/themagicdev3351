@@ -33,19 +33,3 @@
 ##### I'm currently learning
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width='30' height='30' title='NODE'/></code>&nbsp;
-
-<br/>
-
-#### Contact Me:
-<a href="https://www.linkedin.com/in/lucasboscariole/" target="_blank"><img src="https://github.com/Aakarsh-B/trying-repos/raw/master/linkedin.svg" target="_blank" width='30' height='30'></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/lucasboscariole/" target="_blank"><img src="https://github.com/Aakarsh-B/trying-repos/raw/master/insta.svg" target="_blank" width='30' height='30'></a>
-
-<hr/>
-
-<div>
-	<a href="https://github.com/lucasboscariole">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasboscariole&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasboscariole&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-		
-</div>
- 
-![Snake animation](https://github.com/lucasboscariole/LucasBoscariole/blob/output/github-contribution-grid-snake.svg)
