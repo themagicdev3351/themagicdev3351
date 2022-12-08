@@ -30,6 +30,8 @@
 	<p align="left">🧳 I love to travel and play FPS games.</p>
 </div>
 
+<br/>
+
 ##### I'm currently learning
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width='30' height='30' title='NODE'/></code>&nbsp;
