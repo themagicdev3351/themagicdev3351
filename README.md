@@ -32,8 +32,6 @@
 <img src="https://skillicons.dev/icons?i=git,linux,vscode,bash" />
 
 <br />
-<br />
-<br />
 
 <hr/>
 
