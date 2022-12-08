@@ -38,7 +38,7 @@
 <div align="center">
  
 <a href="https://github.com/arpitdalal">
- <img src="https://github-readme-stats.vercel.app/api?username=arpitdalal&show_icons=true&theme=dark&line_height=27" alt="arpitdalal's github stats"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=themagicdev3351&show_icons=true&theme=dark&line_height=27" alt="themagicdev3351's github stats"/>
 </a>
 
 ### Show some ❤️ by starring some of my repositories!
