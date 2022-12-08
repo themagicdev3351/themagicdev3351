@@ -1,7 +1,7 @@
 
 <img src='https://user-images.githubusercontent.com/107703448/206423118-9b0c0459-d818-4355-8515-81dbbf620015.jpg' width="300px" align="right"/> 
 
-# Hello, I'm bhautik 👋
+# Hello, I'm The Magic Dec 👋
 
 ### I ❤️ creating software!
 - 💻 I’m a web dev currently working [@nextJs](https://nextjs.org/).
@@ -20,7 +20,7 @@
 ### My weapons of choice:
 
 #### Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js,react,gatsby,bootstrap,materialui" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,materialui" />
 
 #### Back-end
 <img src="https://skillicons.dev/icons?i=php,nodejs,express,mongodb" />
@@ -36,7 +36,7 @@
 <hr/>
 <div align="left" >  
    <a href="https://github.com/themagicdev3351" style="display: flex;">
-   <img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themagicdev3351&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+   <img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themagicdev3351&layout=compact&langs_count=7&theme=chartreuse-dark" alt="Most Used Languages"/>
    <img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api?username=themagicdev3351&show_icons=true&theme=dark&line_height=27" alt="themagicdev3351's github stats"/>
 </a>
 </div>
