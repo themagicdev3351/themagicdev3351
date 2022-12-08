@@ -6,6 +6,8 @@
 
 <!-- ### Here is my portfolio website: <a href="https://lucasboscariole.com/" target="_blank"><b>Lucas Boscariole Silva.</b></a> -->
 
+<br/>
+
 ### 🖥️ Technologies and Tools 
 
 <code><img width="40px" height="30" src="https://user-images.githubusercontent.com/107703448/206360547-5d5c8a15-7553-4da3-9c02-f4047894c41e.svg" title = "GITHUB"/></code>&nbsp; 
