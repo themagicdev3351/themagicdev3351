@@ -6,6 +6,13 @@
 
 <!-- ### Here is my portfolio website: <a href="https://lucasboscariole.com/" target="_blank"><b>Lucas Boscariole Silva.</b></a> -->
 
+### Connect with me:
+
+[![Twitter: ArpitDalal6](https://img.shields.io/twitter/follow/ArpitDalal6?style=social)][twitter]&nbsp;&nbsp;&nbsp;
+[![Linkedin: arpitdalal](https://img.shields.io/badge/-arpitdalal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitdalal/)][linkedin]&nbsp;&nbsp;&nbsp;
+[![GitHub arpitdalal](https://img.shields.io/github/followers/arpitdalal?label=follow&style=social)][github]&nbsp;&nbsp;&nbsp;
+[![website](https://img.shields.io/badge/Portfolio%20Website-arpitdalal.dev-2648ff?style=flat&logo=google-chrome&logoColor=ffffff)][website]
+
 
 ### 🖥️ Technologies and Tools 
 
