@@ -2,11 +2,12 @@
 
 #### Hi there 👋
 
-#### I'm Lucas Boscariole, I'm from Brazil and I love to code and dogs! Since 2021 I'm working as a frontend developer specialized in React.js developement. I'm eager to learn and code new things.
+#### I'm Bhautik Patel base on Indea. And I'm a Front-end web developer with reactJS/nextJs Specilists having more than 4 years of expertise
 
-### Here is my portfolio website: <a href="https://lucasboscariole.com/" target="_blank"><b>Lucas Boscariole Silva.</b></a>
+<!-- ### Here is my portfolio website: <a href="https://lucasboscariole.com/" target="_blank"><b>Lucas Boscariole Silva.</b></a> -->
 
 ### 🖥️ Technologies and Tools
+
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title = "REACT"/></code>&nbsp;
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title = "NEXT"/></code>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width='30' height='30' title='REDUX'/></code>&nbsp;
@@ -18,16 +19,15 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>&nbsp;
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title = "MODGODB"/></code>&nbsp;
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='30' height='30' title='TYPESCRIPT'/></code>&nbsp;         
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='30' height='30' title='TYPESCRIPT'/></code>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width='30' height='30' title='SCSS/SASS'/></code>&nbsp;
-
 
 <br/>
 
 <div display="inline-block">
-	<p align="left">🤖 Looking for work.</p>
-	<p align="left">🐕 Father of 3 dogs and a cat!</p>
-	<p align="left">🧳 I love to travel and play FPS games.</p>
+ <p align="left">🤖 Looking for work.</p>
+ <p align="left">🐕 Father of 3 dogs and a cat!</p>
+ <p align="left">🧳 I love to travel and play FPS games.</p>
 </div>
 
 <br/>
