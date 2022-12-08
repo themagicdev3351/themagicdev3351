@@ -36,8 +36,8 @@
 <hr/>
    
 <a href="https://github.com/themagicdev3351">
- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themagicdev3351&layout=compact&langs_count=7&theme=chartreuse-dark"/>
- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=themagicdev3351&show_icons=true&theme=dark&line_height=27" alt="themagicdev3351's github stats"/>
+ <img height="200em" width:"50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themagicdev3351&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+ <img height="200em" width:"50%" src="https://github-readme-stats.vercel.app/api?username=themagicdev3351&show_icons=true&theme=dark&line_height=27" alt="themagicdev3351's github stats"/>
 </a>
  
  <br />
