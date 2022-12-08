@@ -1,37 +1,50 @@
-<img src='https://user-images.githubusercontent.com/107703448/206416359-899b765f-36d0-438f-8ca3-0497f9c6c904.jpg' width="300px" align="right"/> 
+# Hello, I'm bhautik 👋
 
-#### Hi there 👋
+### I ❤️ creating software!
+- 💻 I’m a web dev currently working [@Points](https://points.com/).
+- 📖 I’m currently learning [remix](https://github.com/remix-run/remix) and loving it so far 💿❤️
+- 🤝 I’m looking to collaborate with other web enthusiasts!
+- 🎯 2022 Goals: Learn more web technologies and give more back to the community.
 
-#### I'm Bhautik Patel based in India. And I'm a Front-end web developer with reactJS/nextJs Specialists having more than 4 years of expertise.
-
-<!-- ### Here is my portfolio website: <a href="https://lucasboscariole.com/" target="_blank"><b>Lucas Boscariole Silva.</b></a> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit&label=Views&color=blue&style=flat&label=Profile+views" alt="arpit" /> </p>
 
 ### Connect with me:
 
-[![Twitter: bhavin704p](https://img.shields.io/twitter/follow/theMagicDev?style=social)][twitter]&nbsp;&nbsp;&nbsp;
-[![Linkedin: bhautik-vadadoriya](https://img.shields.io/badge/-arpitdalal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhautik-vadadoriya/)][linkedin]&nbsp;&nbsp;&nbsp;
-[![GitHub themagicdev3351](https://img.shields.io/github/followers/themagicdev3351?label=follow&style=social)][github]&nbsp;&nbsp;&nbsp; 
+[![Twitter: ArpitDalal6](https://img.shields.io/twitter/follow/ArpitDalal6?style=social)][twitter]&nbsp;&nbsp;&nbsp;
+[![Linkedin: arpitdalal](https://img.shields.io/badge/-arpitdalal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitdalal/)][linkedin]&nbsp;&nbsp;&nbsp;
+[![GitHub arpitdalal](https://img.shields.io/github/followers/arpitdalal?label=follow&style=social)][github]&nbsp;&nbsp;&nbsp;
+[![website](https://img.shields.io/badge/Portfolio%20Website-arpitdalal.dev-2648ff?style=flat&logo=google-chrome&logoColor=ffffff)][website]
 
+### My weapons of choice:
 
-### 🖥️ Technologies and Tools 
+#### Front-end
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,gatsby,bootstrap,materialui,emotion,tailwind" />
 
-<code><img width="40px" height="30" src="https://user-images.githubusercontent.com/107703448/206360547-5d5c8a15-7553-4da3-9c02-f4047894c41e.svg" title = "GITHUB"/></code>&nbsp; 
-<code><img width="40px" height="30" src="https://user-images.githubusercontent.com/107703448/206360550-2a16abe4-1421-42de-a442-0255af442ab1.svg" title = "VSCODE"/></code>&nbsp; 
-<code><img width="40px" height="30" src="https://user-images.githubusercontent.com/107703448/206360544-22d938d5-2821-4f6a-af4c-928b7777cdba.svg" title = "REACTJS"/></code>&nbsp;
-<code><img width="40px" height="30" src="https://user-images.githubusercontent.com/107703448/206360542-d03531ec-b9bf-48c1-8933-d621e27b336d.svg" title = "NEXTJS"/></code>&nbsp;
-<code><img width="40px" height="30" src="https://user-images.githubusercontent.com/107703448/206360538-ce273fe5-702c-4e18-98f4-fc2220e7dc18.svg"  title='REDUX'/></code>&nbsp; 
-<code><img width="40px" height="30" src="https://user-images.githubusercontent.com/107703448/206361298-f5af91da-e764-4943-a3ee-ce842b29f1a0.svg" title = "HTML5"/></code>&nbsp;
-<code><img width="40px" height="30" src="https://user-images.githubusercontent.com/107703448/206360553-3e6b3603-cec2-45fe-8a4d-0a25b861d596.svg" title = "GIT"/></code>&nbsp; 
-<br/>
-<br/>
+#### Back-end
+<img src="https://skillicons.dev/icons?i=php,nodejs,express,nestjs,mysql,mongodb,postgres,supabase,firebase,appwrite" />
 
-<div display="inline-block">
- <p align="left">🤖 Looking for work.</p> 
- <p align="left">🧳 I love to coding and enjoy.</p>
+#### Full-stack frameworks
+<img src="https://skillicons.dev/icons?i=remix,nextjs,apollo,wordpress" />
+
+#### Other tools
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,bash,docker,electron" />
+
+<br />
+<br />
+<br />
+
+<div align="center">
+ 
+<a href="https://github.com/arpitdalal">
+ <img src="https://github-readme-stats.vercel.app/api?username=arpitdalal&show_icons=true&theme=dark&line_height=27" alt="arpitdalal's github stats"/>
+</a>
+
+### Show some ❤️ by starring some of my repositories!
+
 </div>
 
-<br/>
-
-<!-- ##### I'm currently learning
-
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width='30' height='30' title='NODE'/></code>&nbsp; -->
+[draf]: https://arpitdalal.netlify.app
+[website]: https://arpitdalal.dev?utm_source="github"&utm_medium="social-media"
+[twitter]: https://twitter.com/_arpit_dalal_
+[linkedin]: https://www.linkedin.com/in/arpitdalal/
+[github]: https://www.github.com/arpitdalal
