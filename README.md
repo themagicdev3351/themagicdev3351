@@ -40,12 +40,12 @@
    <img height="205em" width="48%" src="https://github-readme-stats.vercel.app/api?username=themagicdev3351&show_icons=true&theme=dark&line_height=27" alt="themagicdev3351's github stats"/>
 </a>
 </div>
- 
- <br />
+  
  
 <div align="center">
 ### Show some ❤️ by starring some of my repositories!
 </div>
+ 
 
 [draf]: https://themagicdev3351.netlify.app
 [website]: https://themagicdev3351.dev?utm_source="github"&utm_medium="social-media"
