@@ -4,8 +4,8 @@
 # Hello, I'm bhautik 👋
 
 ### I ❤️ creating software!
-- 💻 I’m a web dev currently working [@Points](https://points.com/).
-- 📖 I’m currently learning [remix](https://github.com/remix-run/remix) and loving it so far 💿❤️
+- 💻 I’m a web dev currently working [@nextJs](https://nextjs.org/).
+- 📖 I’m currently learning [nodejs](https://nodejs.org/) and loving it so far 💿❤️
 - 🤝 I’m looking to collaborate with other web enthusiasts!
 - 🎯 2022 Goals: Learn more web technologies and give more back to the community.
 
@@ -14,9 +14,8 @@
 ### Connect with me:
 
 [![Twitter: TheMagicDev](https://img.shields.io/twitter/follow/TheMagicDev?style=social)][twitter]&nbsp;&nbsp;&nbsp;
-[![Linkedin: bhautik-vadadoriya](https://img.shields.io/badge/-bhautik-vadadoriya-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitdalal/)][linkedin]&nbsp;&nbsp;&nbsp;
-[![GitHub arpitdalal](https://img.shields.io/github/followers/arpitdalal?label=follow&style=social)][github]&nbsp;&nbsp;&nbsp;
-[![website](https://img.shields.io/badge/Portfolio%20Website-arpitdalal.dev-2648ff?style=flat&logo=google-chrome&logoColor=ffffff)][website]
+[![Linkedin: bhautik-vadadoriya](https://img.shields.io/badge/bhautik-vadadoriya-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitdalal/)][linkedin]&nbsp;&nbsp;&nbsp;
+[![GitHub themagicdev3351](https://img.shields.io/github/followers/themagicdev3351?label=follow&style=social)][github]&nbsp;&nbsp;&nbsp; 
 
 ### My weapons of choice:
 
