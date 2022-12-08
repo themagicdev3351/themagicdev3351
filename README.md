@@ -9,9 +9,8 @@
 ### Connect with me:
 
 [![Twitter: ArpitDalal6](https://img.shields.io/twitter/follow/theMagicDev?style=social)][twitter]&nbsp;&nbsp;&nbsp;
-[![Linkedin: arpitdalal](https://img.shields.io/badge/-arpitdalal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitdalal/)][linkedin]&nbsp;&nbsp;&nbsp;
-[![GitHub arpitdalal](https://img.shields.io/github/followers/arpitdalal?label=follow&style=social)][github]&nbsp;&nbsp;&nbsp;
-[![website](https://img.shields.io/badge/Portfolio%20Website-arpitdalal.dev-2648ff?style=flat&logo=google-chrome&logoColor=ffffff)][website]
+[![Linkedin: arpitdalal](https://img.shields.io/badge/-arpitdalal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhautik-vadadoriya/)][linkedin]&nbsp;&nbsp;&nbsp;
+[![GitHub arpitdalal](https://img.shields.io/github/followers/themagicdev3351?label=follow&style=social)][github]&nbsp;&nbsp;&nbsp; 
 
 
 ### 🖥️ Technologies and Tools 
