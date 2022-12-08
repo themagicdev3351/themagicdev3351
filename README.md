@@ -6,10 +6,10 @@
 
 <!-- ### Here is my portfolio website: <a href="https://lucasboscariole.com/" target="_blank"><b>Lucas Boscariole Silva.</b></a> -->
 
-### 🖥️ Technologies and Tools
+### 🖥️ Technologies and Tools 
 
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title = "REACT"/></code>&nbsp;
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title = "NEXT"/></code>&nbsp;
+<code><img width="40px" src="https://user-images.githubusercontent.com/107703448/206359424-ad314949-1437-4b0d-bc97-ad63e1266bd0.jpg" title = "REACT"/></code>&nbsp;
+<code><img width="40px" src="https://user-images.githubusercontent.com/107703448/206359429-b5665e9a-ebd4-485a-90c2-89afd0403442.jpeg" title = "NEXT"/></code>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width='30' height='30' title='REDUX'/></code>&nbsp;
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title = "TAILWIND CSS"/></code>&nbsp;
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>&nbsp;
