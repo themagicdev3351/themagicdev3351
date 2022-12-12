@@ -14,7 +14,7 @@
 ### Connect with me:
 
 [![Twitter: TheMagicDev](https://img.shields.io/twitter/follow/TheMagicDev?style=social)][twitter]&nbsp;&nbsp;&nbsp;
-[![Linkedin: themegicdev3351](https://img.shields.io/badge/themegicdev3351-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/themegicdev3351/)][linkedin]&nbsp;&nbsp;&nbsp;
+[![Linkedin: themegicdev3351](https://img.shields.io/badge/themegicdev3351-blue?style=flat&link=https://www.linkedin.com/in/themegicdev3351/&logo=Linkedin&logoColor=white)][linkedin]&nbsp;&nbsp;&nbsp;
 [![GitHub themagicdev3351](https://img.shields.io/github/followers/themagicdev3351?label=follow&style=social)][github]&nbsp;&nbsp;&nbsp;
 
 ### My weapons of choice:
