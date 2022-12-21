@@ -1,5 +1,6 @@
 
-<img src='https://user-images.githubusercontent.com/107703448/206423118-9b0c0459-d818-4355-8515-81dbbf620015.jpg' width="300px" align="right"/> 
+
+<img src='https://user-images.githubusercontent.com/107703448/208836900-7d4f77de-21fb-4b6b-b188-a7630ffdfe5a.png' width="300px" align="right"/>  
 
 # Hello, I'm Magic Dev 👋
 
