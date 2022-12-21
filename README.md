@@ -1,6 +1,4 @@
-
-
-<img src='https://user-images.githubusercontent.com/107703448/208836900-7d4f77de-21fb-4b6b-b188-a7630ffdfe5a.png' width="300px" align="right"/>  
+<img src='https://user-images.githubusercontent.com/107703448/208837175-c428c006-d0b6-4c27-bdf7-a4fecd39be69.jpg' width="300px" align="right"/>  
 
 # Hello, I'm Magic Dev 👋
 
