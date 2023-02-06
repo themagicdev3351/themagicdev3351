@@ -6,7 +6,7 @@
 - 💻 I’m a web dev currently working [@nextJs](https://nextjs.org/).
 - 📖 I’m currently learning [nodejs](https://nodejs.org/) and loving it so far 💿❤️
 - 🤝 I’m looking to collaborate with other web enthusiasts!
-- 🎯 2022 Goals: Learn more web technologies and give more back to the community.
+- 🎯 2024 Goals: Learn more web technologies and give more back to the community.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themagicdev3351&label=Views&color=blue&style=flat&label=Profile+views" alt="themagicdev" /> </p>
 
