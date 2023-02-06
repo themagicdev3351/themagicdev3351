@@ -48,5 +48,5 @@
 [draf]: https://themagicdev3351.netlify.app
 [website]: https://themagicdev3351.dev?utm_source="github"&utm_medium="social-media"
 [twitter]: https://twitter.com/TheMagicDev
-[linkedin]: https://www.linkedin.com/in/bhautik-vadadoriya/
+[linkedin]: https://www.linkedin.com/in/themegicdev3351/
 [github]: https://www.github.com/themagicdev3351
